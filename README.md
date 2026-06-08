@@ -1,8 +1,8 @@
-# Spring Redis CRUD API
+# Spring Boot With Redis Cache
 
 ## Overview
 
-Spring Redis CRUD API is a Spring Boot REST application that demonstrates CRUD operations on Product entities using MySQL as the primary database and Redis as the caching layer.
+A Spring Boot REST application that demonstrates CRUD operations on Product entities using MySQL as the primary database and Redis as the caching layer.
 
 The application uses Spring Cache abstraction with Redis to improve performance by reducing database access for frequently requested product data.
 
